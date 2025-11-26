@@ -26,7 +26,7 @@ const Home = () => {
                 }}
             >
                 <Typography component="h1" variant="h2" color="inherit" gutterBottom sx={{ fontWeight: 'bold', textShadow: '2px 2px 4px rgba(0,0,0,0.7)' }}>
-                    Bienvenido a la alegría de comprar
+                    Bienvenido a la alegría de comprar (Catalina)
                 </Typography>
                 <Typography variant="h5" color="inherit" paragraph sx={{ textShadow: '1px 1px 2px rgba(0,0,0,0.7)' }}>
                     Para tu hogar y mascotas
